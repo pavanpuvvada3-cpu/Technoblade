@@ -9,7 +9,7 @@
     "ip": "slobtest1.aternos.me",
     "port": 27586,
     "version": "",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
